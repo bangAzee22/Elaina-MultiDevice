@@ -4,8 +4,8 @@ let teks = `
 │ • *Indosat:* [${global.ppulsa}]
 ❏────
 
-┌─「 Donasi • Non Pulsa 」
-│ • *Dana:* [${global.pdana}]
+┌─「 Donasi • Non Pulsa 6282169638085」
+│ • *Dana:* [6282169638085]
 │ • *Saweria:* [${global.psaweria}]
 ❏────
 `
